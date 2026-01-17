@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.brand-blue {
+    color: #00a8cc;
+    font-weight: bold;
+}
+
+.hero {
+    background-color: #d9f1f7;
+    padding: 80px 0;
+}
+
+.hero h1 {
+    font-weight: 300;
+}
+
+.hero-bold {
+    font-weight: bold;
+}
+
+.hero p {
+    margin-top: 15px;
+    color: #444;
+}
+
+.btn-custom {
+    background-color: #00a8cc;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.btn-custom:hover {
+    background-color: #008fb0;
+    color: white;
+}
+
+.services {
+    padding: 60px 0;
+}
+
+.service-icon {
+    font-size: 40px;
+    color: #00a8cc;
+    margin-bottom: 15px;
+}
+
+.services h5 {
+    font-weight: bold;
+}
+
+.services p {
+    color: #666;
+    font-size: 14px;
+}
+
+.footer-bar {
+    background-color: #005f6a;
+    height: 120px;
+}
